@@ -4,8 +4,8 @@
 
 ESP8266WebServer server(80);
 
-const char* ssid = "Whizzkid_phone"; //Enter Wi-Fi SSID
-const char* password =  "praba789"; //Enter Wi-Fi Password
+const char* ssid = "Whizkid"; //Enter Wi-Fi SSID
+const char* password =  "sowmi789"; //Enter Wi-Fi Password
  
 void setup() {
   Serial.begin(9600); //Begin Serial at 115200 Baud
